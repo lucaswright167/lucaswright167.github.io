@@ -12,8 +12,16 @@ main:
   - title: "CV"
     url: /files/lucas-wright-cv.pdf
 
+  - title: "Publications"
+    url: "/publications/"
+    
+  - title: "Policy Impact"
+    url: "/policy/"
+
   - title: "Teaching"
     url: "/teaching/"
+    
+
     
   # - title: "CV"
   #   url: /cv-json/
