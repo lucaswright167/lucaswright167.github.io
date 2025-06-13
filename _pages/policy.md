@@ -4,7 +4,7 @@ author_profile: true
 permalink: /policy/                
 ---
 
-My work has contributed to and been cited in the development of new AI policy at both the federal, state, and local level.
+My work has contributed to and been cited in the development of new AI policy at the federal, state, and local level.
 
 My research on New York City's Local Law 144, which mandates employers conduct external bias audits of algorithms used in the hiring decision-making process, has been cited several times in expert testimony, public comments, and working groups, including:
 
