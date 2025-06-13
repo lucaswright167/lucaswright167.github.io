@@ -4,8 +4,6 @@ author_profile: true
 permalink: /policy/                
 ---
 
-## Policy Impact
-
 My work has contributed to and been cited in the development of new AI policy at both the federal, state, and local level.
 
 My research on New York City's Local Law 144, which mandates employers conduct external bias audits of algorithms used in the hiring decision-making process, has been cited several times in expert testimony, public comments, and working groups, including:
@@ -16,6 +14,6 @@ My research on New York City's Local Law 144, which mandates employers conduct e
 * [A letter to the California CCPA signed by over 40 research organizations, worker associations, and legal experts](https://laborcenter.berkeley.edu/wp-content/uploads/2024/02/Joint-Letter-to-the-California-Privacy-Protection-Agency-on-Worker-Protections-under-the-CCPA.pdf)
 * Reports from the [Center for Technology & Democracy](https://cdt.org/wp-content/uploads/2024/07/robo-bosses-072124-a11y.pdf), the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/wp-content/uploads/2024/06/Ada-Lovelace-Institute-Code-and-conduct-FINAL-1906.pdf), the [Future of Privacy Forum](https://fpf.org/wp-content/uploads/2024/09/FINAL-State-AI-Legislation-Report-webpage.pdf), and the [Texas Public Policy Foundation](https://www.texaspolicy.com/wp-content/uploads/2024/11/2024-11-BTT-Responsible-AI-Policy-WhitingDunmoyer_FINAL.pdf).
 
-In 2023, I worked as a [COMPASS Fellow](https://www.asc.upenn.edu/research/centers/compass) for the National Telecommunications and Information Administration on their [request for comments](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/overview) on federal policy for AI assurance. In addition to extracting and synthesizing key recommendation from over 1,400 public comments, I helped product the [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report). 
+In 2023, I worked as a [COMPASS Fellow](https://www.asc.upenn.edu/research/centers/compass) for the National Telecommunications and Information Administration on their [request for comments](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/overview) on federal policy for AI assurance. In addition to extracting and synthesizing key recommendations from over 1,400 public comments, I helped produce the [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report). 
 
 I have also contributed to expert comments in response to federal requests, such as [this response](https://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi?article=1234&context=reports) on federal copyright policy.

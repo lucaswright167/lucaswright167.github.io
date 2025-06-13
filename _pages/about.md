@@ -15,6 +15,10 @@ My work aims to understand how digital technologies, and the social fields that 
 
 **I am on the academic job market in 2025-2026 and actively seeking opportunities where I can contribute to research, teaching, and policy engagement.**
 
+In my free time, I enjoy biking, cross-country skiing, and playing chess. You can regularly find me playing at the [Ithaca Chess Club](https://ithacachessclub.com/). I am also particularly fond of [Lichess.org](https://lichess.org), a non-profit, volunteer-moderated, open source chess website that hosts millions of games a day. While you're here, you can try to find the best move in their daily chess puzzle on the board below.
+
+<iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 400px; aspect-ratio: 10/11;" allowtransparency="true" frameborder="0"></iframe>
+
 ## Recent News
 
 * **June 2025:** I am attending ICA in Denver. I'll be presenting on my trust and safety vendors research and my research on the securitization of disinformation.
