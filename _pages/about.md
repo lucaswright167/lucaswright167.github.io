@@ -33,7 +33,7 @@ My primary research interests include:
 
 ## About Me
 
-I was born and raised in a small town in central Pennsylvania, in a barn that was (mostly) converted into a house. While I didn't realize it at the time, I developed an interest in the governance of online communities in middle school when I ran a "guild" in the online roleplaying game *Guild Wars*. I later moved to Washington, D.C. to attend American University where I majored in political science and was first introduced to technology policy in internships at the Government Accountility Project, Change.org, and the Brookings Institution. 
+I was born and raised in a small town in central Pennsylvania, in a barn that was (mostly) converted into a house. While I didn't realize it at the time, I developed an interest in the governance of online communities in middle school when I ran a "guild" in the online roleplaying game *Guild Wars*. I later moved to Washington, D.C. to attend American University where I majored in political science and was first introduced to technology policy through internships at the Government Accountability Project, Change.org, and the Brookings Institution. 
 
 Before beginning my Ph.D. at Cornell, I earned my MSc from Oxford University in the Social Science of the Internet, where my thesis examined the development and use of the AutoModerator Reddit bot. I also spent several years working on issues of digital governance and rights as a civil society researcher, producing original research on online counterspeech and a series of [blog posts](https://www.dangerousspeech.org/author/lucas-wright) for the Dangerous Speech Project.
 
