@@ -15,10 +15,6 @@ My work aims to understand how digital technologies, and the social fields that 
 
 **I am on the academic job market in 2025-2026 and actively seeking opportunities where I can contribute to research, teaching, and policy engagement.**
 
-In my free time, I enjoy biking, cross-country skiing, and playing chess. You can regularly find me playing at the [Ithaca Chess Club](https://ithacachessclub.com/). I am also particularly fond of [Lichess.org](https://lichess.org), a non-profit, volunteer-moderated, open source chess website that hosts millions of games a day. While you're here, you can try to find the best move in their daily chess puzzle on the board below.
-
-<iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 400px; aspect-ratio: 10/11;" allowtransparency="true" frameborder="0"></iframe>
-
 ## Recent News
 
 * **June 2025:** I am attending ICA in Denver. I'll be presenting on my trust and safety vendors research and my research on the securitization of disinformation.
@@ -35,8 +31,14 @@ My primary research interests include:
 * **Digital Governance Discourse:** The broader frameworks and language used to describe online safety, and how these influence the kinds of expertise and policy tools governments and companies make use of (which a particular focus on [rhetoric of security](https://citizensandtech.org/2024/06/wrestling-with-the-language-of-security-in-conversations-about-digital-governance/)).
 * **Political Economy of Platforms:** Critical analysis of how platform design and business models influence user behavior and public discourse.
 
-## Background
+## About Me
+
+I was born and raised in a small town in central Pennsylvania, in a barn that was (mostly) converted into a house. While I didn't realize it at the time, I developed an interest in the governance of online communities in middle school when I ran a "guild" in the online roleplaying game *Guild Wars*. I later moved to Washington, D.C. to attend American University where I majored in political science and was first introduced to technology policy in internships at the Government Accountility Project, Change.org, and the Brookings Institution. 
 
 Before beginning my Ph.D. at Cornell, I earned my MSc from Oxford University in the Social Science of the Internet, where my thesis examined the development and use of the AutoModerator Reddit bot. I also spent several years working on issues of digital governance and rights as a civil society researcher, producing original research on online counterspeech and a series of [blog posts](https://www.dangerousspeech.org/author/lucas-wright) for the Dangerous Speech Project.
+
+In my free time, I enjoy biking, cross-country skiing, and playing chess. You can regularly find me playing at the [Ithaca Chess Club](https://ithacachessclub.com/). I am also particularly fond of [Lichess.org](https://lichess.org), a non-profit, volunteer-moderated, open source chess website that hosts millions of games a day. While you're here, you can try to find the best move in their daily chess puzzle on the board below.
+
+<iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 400px; aspect-ratio: 10/11;" allowtransparency="true" frameborder="0"></iframe>
 
 ---
