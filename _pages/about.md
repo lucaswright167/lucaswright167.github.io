@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a 6th year Ph.D. candidate in the Department of Communication at Cornell University, specializing in the sociotechnical study of digital platforms and artificial intelligence. My research focuses on the intersection of online trust and safety, the impact of emerging technologies on civil liberties, and the evolving landscape of AI regulation.
 
-My work aims to understand how digital technologies, and the social fields that develop around them, shape social dynamics and to inform policy that fosters safer, more equitable online environments. I employ a mix of qualitative methods, including interviews and ethnographic approaches, alongside policy analysis, and quantitative methods, such as online field experiments and observational quasi-experiments, to explore these complex issues.
+My work aims to understand how digital technologies, and the social fields that develop around them, shape social dynamics and to inform policy that fosters safer, more equitable online environments. I employ a mix of qualitative methods, including interviews and textual analysis, as well as quantitative methods, such as online field experiments and observational quasi-experiments, to explore these complex issues.
 
 **I am on the academic job market in 2025-2026 and actively seeking opportunities where I can contribute to research, teaching, and policy engagement.**
 
