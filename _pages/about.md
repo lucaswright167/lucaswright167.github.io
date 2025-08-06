@@ -19,7 +19,7 @@ My writing has appeared in *Social Media & Society*, *FAccT*, *Tech Policy Press
 
 ## Recent News
 
-* **July 2025** I wrote about my research on trust and safety vendors in [*Tech Policy Press*](https://www.techpolicy.press/online-safety-depends-on-a-growing-trust-and-safety-vendor-ecosystem/) and in a [forthcoming book chapter](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360109) in an edited volume from the Trust and Safety Foundation to be published in Taylor & Francis.
+* **July 2025** I wrote about my research on trust and safety vendors in [*Tech Policy Press*](https://www.techpolicy.press/online-safety-depends-on-a-growing-trust-and-safety-vendor-ecosystem/) and in a [forthcoming book chapter](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360109) in an edited volume from the Trust and Safety Foundation to be published by Taylor & Francis.
 * **June 2025:** I am attending ICA in Denver. I'll be presenting on my trust and safety vendors research and my research on the securitization of disinformation.
 * **April 2025:** I gave a [talk](https://events.cornell.edu/event/commcolloquium-lucas-wright) at the Cornell Communication Department colloquium series titled "The Political Economy of Trust and Safety Vendors, and Other Markets for Digital Regulation Compliance."
 * **April 2025:** I was selected as a finalist for the NSF Law and Science dissertation grant.
