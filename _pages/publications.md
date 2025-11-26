@@ -8,6 +8,8 @@ permalink: /publications/
 
 For a full list of publications, see my [CV](https://www.lucaswright.net/files/lucas-wright-cv.pdf) or [Google Scholar profile](https://scholar.google.co.uk/citations?user=M0LJ_fEAAAAJ&hl=en).
 
+
+-   **Wright, L.** (2025). The Salesforce of safety: Software vendors as infrastructural/professional nodes in the field of online trust and safety. *Platforms & Society*, 2, 29768624251390683. <https://doi.org/10.1177/29768624251390683>
 -   **Wright, L.**, Muenster, R. M., Vecchione, B., Qu, T., Cai, P., Smith, A., Investigators, C. 2450 S., Metcalf, J., Matias, J. N., & others. (2024). Null Compliance: NYC Local Law 144 and the challenges of algorithm accountability. *Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency*, 1701–1713. <https://dl.acm.org/doi/pdf/10.1145/3630106.3658998>
 -   **Wright, L.** (2022). Automated platform governance through visibility and scale: On the transformational power of automoderator. *Social Media+ Society*, 8(1), 20563051221077020.
 -   Matias, J. N., & **Wright, L.** (2022). Impact Assessment of Human-Algorithm Feedback Loops. *Social Science Research Council*. <https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/>
