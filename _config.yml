@@ -25,11 +25,11 @@ author:
   avatar           : "headshot.jpg"
   name             : "Lucas Wright"
   pronouns         : # example: "he/him"  
-  bio              : "Ph.D. candidate in the Department of Communication at Cornell"
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  bio              : "Resident Fellow at Yale Law School"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   uri              : # URL
-  email            : "law323@cornell.edu" 
+  email            : "lucas.wright@yale.edu" 
 
   # Academic websites
   academia         : # URL

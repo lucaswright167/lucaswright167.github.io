@@ -9,22 +9,16 @@ redirect_from:
 
 ## Overview
 
-I'm a 6th year Ph.D. candidate in the Department of Communication at Cornell University, specializing in the sociotechnical study of digital platforms and artificial intelligence. My research focuses on the intersection of online trust and safety, the impact of emerging technologies on civil liberties, and the evolving landscape of AI regulation.
+I'm a Resident Fellow of the Information Society Project at Yale Law School, specializing in the sociotechnical study of digital platforms and artificial intelligence. My research focuses on the intersection of online trust and safety, the impact of emerging technologies on civil liberties, and the evolving landscape of AI regulation.
 
 My work aims to understand how digital technologies, and the social fields that develop around them, shape social dynamics and to inform policy that fosters safer, more equitable online environments. I employ a mix of qualitative methods, including interviews and textual analysis, as well as quantitative methods, such as online field experiments and observational quasi-experiments, to explore these complex issues.
 
 My writing has appeared in *Social Media & Society*, *FAccT*, *Platforms & Society*, *Tech Policy Press*, and *Quartz* and has been covered in the *Wall Street Journal.* 
 
-**I am on the academic job market in 2025-2026 and actively seeking opportunities where I can contribute to research, teaching, and policy engagement.**
-
 ## Recent News
 
+* **July 2026** I began a one-year appointment as a Resident Fellow of the Information Society Project at Yale Law School. Effective August 2027, I will begin an appointment as an Assistant Professor of AI Media and Policy at Northeastern University. If you're in New Haven or Boston and want to meet, please reach out!
 * **November 2025** I have a new [article](https://journals.sagepub.com/doi/full/10.1177/29768624251390683) out in *Platforms & Society* on trust and safety software vendors.
-* **July 2025** I wrote about my research on trust and safety vendors in [*Tech Policy Press*](https://www.techpolicy.press/online-safety-depends-on-a-growing-trust-and-safety-vendor-ecosystem/) and in a [forthcoming book chapter](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360109) in an edited volume from the Trust and Safety Foundation to be published by Taylor & Francis.
-* **June 2025:** I am attending ICA in Denver. I'll be presenting on my trust and safety vendors research and my research on the securitization of disinformation.
-* **April 2025:** I gave a [talk](https://events.cornell.edu/event/commcolloquium-lucas-wright) at the Cornell Communication Department colloquium series titled "The Political Economy of Trust and Safety Vendors, and Other Markets for Digital Regulation Compliance."
-* **April 2025:** I was selected as a finalist for the NSF Law and Science dissertation grant.
-* **October 2024:** I presented at the Association of Internet Researchers in Sheffield.
 
 ## Research Interests
 
